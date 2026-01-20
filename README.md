@@ -67,7 +67,7 @@ This project uses **Item-Based Collaborative Filtering**:
 ### 1️⃣ Clone the repository
 
 ``` bash
-git clone https://github.com/<your-username>/collaborative-filtering-book-recommender.git
+git clone https://github.com/Priyrajsinh/collaborative-filtering-book-recommender.git
 cd collaborative-filtering-book-recommender
 ```
 
