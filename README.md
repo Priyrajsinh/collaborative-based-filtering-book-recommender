@@ -131,7 +131,7 @@ Open browser:
 
 ## 👨‍💻 Author
 
-**Your Name**\
+**Priyrajsinh**\
 Computer Engineering Student\
 Aspiring Machine Learning / AI Engineer
 
